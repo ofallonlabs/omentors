@@ -1,7 +1,7 @@
 {
   "name": "npm",
   "version": "1.0.0",
-  "description": "O'Fallon Labs | Data Science Mentoring 1:1",
+  "description": "O'Mentors | Data Science Mentoring 1:1",
   "main": "index.js",
   "scripts": {
     "start": "npx @11ty/eleventy --input=_src --output=_public --serve",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smirs/saeedmirshekari.git"
+    "url": "git+https://github.com/smirs/omentors.git"
   },
   "keywords": [
     "data science consulting",
@@ -22,9 +22,9 @@
   "author": "Saeed Mirshekari, PhD",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/smirs/saeedmirshekari/issues"
+    "url": "https://github.com/smirs/omentors/issues"
   },
-  "homepage": "https://github.com/smirs/saeedmirshekari#readme",
+  "homepage": "https://github.com/smirs/omentors#readme",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1"
   },

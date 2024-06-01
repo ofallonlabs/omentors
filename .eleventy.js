@@ -24,7 +24,7 @@ module.exports = function(eleventyConfig) {
       });
 
     eleventyConfig.addCollection("tagposts", function(collectionApi) {
-        return collectionApi.getFilteredByTags("post").reverse().slice(0, 5);
+        return collectionApi.getFilteredByTags("post");
     });
 
     return {
